@@ -1,0 +1,17 @@
+
+.logo{
+    text-align: center;
+    color: black;
+    /* width: 30p; */
+}
+.sticky {
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+}
+
+#navbar{
+    height: 50px;
+}
